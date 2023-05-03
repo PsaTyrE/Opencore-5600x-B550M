@@ -5,14 +5,14 @@ GT 710 support arrived on Catalina
 
 # System Information
 
-| Name          | Model               |
-| :------------ |:------------------: |
-| CPU           | RYZEN 5 5600X       |
-| GPU           | MSI GT 710          |
-| SSD           | VGEN Hyper          |
-| Board         | AOURUS B550M Pro -P |
-| Ethernet      | LucyRTL8125Ethernet |
-| MacOS         | Catalina            |
+| Name          | Model                   |
+| :------------ |:----------------------: |
+| CPU           | RYZEN 5 5600X           |
+| GPU           | Work MSI GT 710 / RX 570|
+| SSD           | VGEN Hyper              |
+| Board         | AOURUS B550M Pro -P     |
+| Ethernet      | LucyRTL8125Ethernet     |
+| MacOS         | Catalina                |
 
 # Guide
 
